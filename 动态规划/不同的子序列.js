@@ -1,7 +1,7 @@
 /*
  * @Date: 2022-11-10 22:44:24
- * @LastEditors: aibo chang aibochang@163.com
- * @LastEditTime: 2022-11-11 00:23:42
+ * @LastEditors: aibo chang
+ * @LastEditTime: 2022-11-11 00:33:02
  * @FilePath: \VScodeWork\算法\动态规划\不同的子序列.js
  * @Description: 给定一个字符串s和一个字符串t，计算在s的子序列中t出现的个数
  */
