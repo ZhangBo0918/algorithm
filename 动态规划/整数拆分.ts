@@ -1,7 +1,7 @@
 /*
  * @Date: 2022-11-19 01:14:32
- * @LastEditors: aibo chang aibochang@163.com
- * @LastEditTime: 2022-11-19 01:36:10
+ * @LastEditors: aibo chang
+ * @LastEditTime: 2022-11-19 01:37:36
  * @FilePath: \VScodeWork\算法\动态规划\整数拆分.ts
  * @Description: 给定⼀个正整数 n，将其拆分为⾄少两个正整数的和，并使这些整数的乘积最⼤化。 返回你可以获得的最⼤乘积。
  */
