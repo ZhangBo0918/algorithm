@@ -1,7 +1,7 @@
 /*
  * @Date: 2022-11-19 22:46:25
- * @LastEditors: aibo chang aibochang@163.com
- * @LastEditTime: 2022-11-19 23:19:54
+ * @LastEditors: aibo chang
+ * @LastEditTime: 2022-11-19 23:21:45
  * @FilePath: \VScodeWork\算法\动态规划\背包问题详解.ts
  * @Description:
  */
