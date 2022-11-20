@@ -1,7 +1,7 @@
 /*
  * @Date: 2022-11-20 01:31:59
- * @LastEditors: aibo chang aibochang@163.com
- * @LastEditTime: 2022-11-20 01:54:30
+ * @LastEditors: aibo chang
+ * @LastEditTime: 2022-11-20 10:01:19
  * @FilePath: \VScodeWork\算法\动态规划\最后一块石头的重量.ts
  * @Description:
  */
